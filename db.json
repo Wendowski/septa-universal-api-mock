@@ -135,7 +135,7 @@
         {
           "ID": 0,
           "Headsign": "Center City"
-        },
+        }
       ],
       "Sequence": 7012,
       "IsAlert": true,
@@ -161,7 +161,7 @@
 	   "Start": "2020-02-20 08:00",
 	   "End": "2030-02-20 08:00",
 	   "Message": "This is a test detour.",
-	   "Date": "2020-02-20 08:00",
+	   "Date": "2020-02-20 08:00"
         }
       ],
       "Elevator": [
