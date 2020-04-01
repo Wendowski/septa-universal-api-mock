@@ -1,8 +1,6 @@
 {
-  "posts": [
+  "trips": [
     {
-      "id": 1,
-      "title": "Post 1",
       "TripID": "583987", 
       "RouteID": "14",
       "RouteName": "14",
@@ -27,24 +25,76 @@
       "Offset": 30
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "TripID": "718", 
+      "RouteID": "TRE",
+      "RouteName": "Trenton",
+      "ModeID": "Rail",
+      "Origin": "Trenton",
+      "Destination": "Chestnut H East",
+      "DirectionID": 0,
+      "DirectionName": "",
+      "CurrentStopID": 1,
+      "CurrentStopName": "Trenton",
+      "CurrentStopSequence": 1,
+      "NextStop": "Levittown",
+      "Delay": 10,
+      "Block": "712",
+      "ServiceType": "LOCAL",
+      "Vehicle": "393,392,423,424",
+      "Heading": 315.68015946529,
+      "Lat": 40.216744,
+      "Lon":  -74.756017,
+      "Offset": 10
     },
-    {
-      "id": 3,
-      "title": "Post 3"
+    { 
+      "TripID": "583975", 
+      "RouteID": "1",
+      "RouteName": "1",
+      "ModeID": "Bus",
+      "Origin": "",
+      "Destination": "54th-City",
+      "DirectionID": 0,
+      "DirectionName": "SouthBound",
+      "CurrentStopID": 30293,
+      "CurrentStopName": "Roosevelt Blvd & Southampton Rd",
+      "CurrentStopSequence": 2,
+      "NextStop": "Roosevelt Blvd & Hellerman St",
+      "Delay": 0,
+      "Block": "1459",
+      "ServiceType": "",
+      "Vehicle": "8502",
+      "Heading": 300,
+      "Track": "",
+      "TrackChange": "",
+      "Lat": 40.047718,
+      "Lon": -75.051147,
+      "Offset": 12
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+  "trip_schedule
+        {
+      "TripID": 583987,
+      "StopID": 30293,
+      "StopName": "string",
+      "StopSequence": 1,
+      "Scheduled": "10:00 pm",
+      "Estimated": "10:10 pm",
+      "Actual": null,
+      "Track": "",
+      "TrackChange": "",
+      "Delay": 10
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "TripID": 583987,
+      "StopID": 30293,
+      "StopName": "string",
+      "StopSequence": 1,
+      "Scheduled": "10:00 pm",
+      "Estimated": "10:10 pm",
+      "Actual": null,
+      "Track": "",
+      "TrackChange": "",
+      "Delay": 10
     }
   ],
   "profile": {
