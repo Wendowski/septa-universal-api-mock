@@ -71,8 +71,8 @@
       "Offset": 12
     }
   ],
-  "trip_schedule
-        {
+  "trip_schedule": [
+  {
       "TripID": 583987,
       "StopID": 30293,
       "StopName": "string",
