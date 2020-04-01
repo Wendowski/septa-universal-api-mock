@@ -2,7 +2,29 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Post 1",
+      "TripID": "583987", 
+      "RouteID": "14",
+      "RouteName": "14",
+      "ModeID": "Bus",
+      "Origin": "",
+      "Destination": "Neshaminy Mall",
+      "DirectionID": 0,
+      "DirectionName": "SouthBound",
+      "CurrentStopID": 30293,
+      "CurrentStopName": "Roosevelt Blvd & Hellerman St",
+      "CurrentStopSequence": 2,
+      "NextStop": "Roosevelt Blvd & Stanwood St",
+      "Delay": 0,
+      "Block": "1063",
+      "ServiceType": "",
+      "Vehicle": "3188",
+      "Heading": 300,
+      "Track": "",
+      "TrackChange": "",
+      "Lat": 40.058773,
+      "Lon": -75.044388,
+      "Offset": 30
     },
     {
       "id": 2,
